@@ -35,6 +35,6 @@
     "next-optimized-images": "^2.5.5",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "web3": "^1.2.6"
+    "web3": "^4.16.0"
   }
 }
